@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604261743538XPO64</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260426174353FQOP3S</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Situación de Aprendizaje: ¿Dónde estamos? Aprendemos a orientarnos en nuestro entorno</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777217620037</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>f14c2852-c8a4-4742-9462-409161970e99</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Presentación del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>f14c2852-c8a4-4742-9462-409161970e99</odePageId>
+      <odeBlockId>block-1777208843139-lalnxho5y</odeBlockId>
+      <blockName>SITUACIÓN DE APRENDIZAJE: ¿DÓNDE ESTAMOS? APRENDEMOS A ORIENTARNOS EN NUESTRO ENTORNO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>f14c2852-c8a4-4742-9462-409161970e99</odePageId>
+          <odeBlockId>block-1777208843139-lalnxho5y</odeBlockId>
+          <odeIdeviceId>idevice-1777208843133-m8vwflea5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>CENTRO DE INTERÉS O TEMÁTICA</strong></p>
+<p>Esta situación de aprendizaje se centra en la orientación en el espacio cercano y el conocimiento del entorno, trabajando conceptos básicos como los puntos cardinales, los mapas, los planos y la brújula.</p>
+<p>A partir de actividades prácticas y cercanas a la realidad del alumnado, se pretende que los estudiantes comprendan cómo orientarse en su entorno y cómo representar el espacio mediante diferentes herramientas.</p>
+<p>Además, la situación de aprendizaje integra el uso de herramientas digitales, como mapas interactivos, sistemas de geolocalización y recursos audiovisuales, favoreciendo así el desarrollo de la competencia digital del alumnado.</p>
+<p>El proyecto culmina con la elaboración de un mural colaborativo sobre algunos monumentos del centro de Málaga, tras realizar una exploración del entorno utilizando mapas y recursos digitales.</p>
+<p> </p>
+<p><strong>NIVEL EDUCATIVO</strong></p>
+<p>2º curso de Educación Primaria.</p>
+<p> </p>
+<p><strong>TEMPORALIZACIÓN</strong></p>
+<p>La situación de aprendizaje se desarrollará a lo largo de 10-12 sesiones dentro de la programación del área.</p>
+<p>Distribución aproximada:</p>
+<ul>
+<li>Sesiones 1-2: Actividades de motivación y activación de conocimientos previos.</li>
+<li>Sesiones 3-5: Introducción a los planos, mapas y puntos cardinales.</li>
+<li>Sesiones 6-8: Actividades prácticas de orientación y exploración digital del entorno.</li>
+<li>Sesiones 9-10: Investigación de monumentos del centro de Málaga.</li>
+<li>Sesiones 11-12: Elaboración del mural y presentación final.</li>
+</ul>
+<p> </p>
+<p><strong>MATERIAS IMPLICADAS</strong></p>
+<p>La situación de aprendizaje se desarrolla principalmente en el área de:</p>
+<p>Conocimiento del Medio Natural, Social y Cultural</p>
+<p>También se trabajan de forma transversal:</p>
+<ul>
+<li>Lengua Castellana: comprensión lectora, expresión oral y explicación del trabajo realizado.</li>
+<li>Educación Artística: diseño y elaboración del mural final.</li>
+<li>Competencia Digital: uso de mapas digitales, búsqueda de información y presentación de contenidos.</li>
+</ul>
+<p> </p>
+<p><strong>IDIOMA</strong></p>
+<p>El idioma principal de desarrollo será castellano.</p>
+<p> </p>
+<p><strong>DESCRIPCIÓN DEL APRENDIZAJE</strong></p>
+<p>Con esta situación de aprendizaje se pretende que el alumnado:</p>
+<ul>
+<li>Comprenda cómo orientarse en el espacio cercano.</li>
+<li>Identifique y utilice herramientas básicas de orientación como los puntos cardinales, la brújula, los mapas y los planos.</li>
+<li>Desarrolle habilidades de observación, exploración e interpretación del entorno.</li>
+<li>Aprenda a representar el espacio de forma sencilla mediante planos.</li>
+<li>Desarrolle habilidades digitales básicas mediante el uso de mapas digitales y recursos tecnológicos.</li>
+<li>Trabaje de forma cooperativa para investigar y elaborar un producto común.</li>
+</ul>
+<p>Durante el desarrollo de la situación de aprendizaje el alumnado realizará diferentes actividades como:</p>
+<ul>
+<li>Observación y análisis de mapas y planos</li>
+<li>Uso de Google Maps o Google Earth para localizar lugares cercanos</li>
+<li>Exploración guiada del entorno</li>
+<li>Búsqueda de información en internet sobre monumentos de Málaga</li>
+<li>Presentación de la información utilizando recursos visuales proyectados en clase.</li>
+</ul>
+<p>El<strong> producto final</strong> consistirá en la <strong>elaboración de un mural colaborativo sobre monumentos del centro de Málaga</strong>, acompañado de una breve explicación oral en la que el alumnado mostrará la localización de dichos monumentos en un mapa digital.</p>
+<p>Este producto permitirá aplicar los conocimientos adquiridos y desarrollar habilidades de comunicación, cooperación y competencia digital.</p>
+<p> </p>
+<p><strong>JUSTIFICACIÓN </strong></p>
+<p>La elección de esta situación de aprendizaje se fundamenta en la reflexión realizada previamente mediante una rutina de pensamiento basada en el modelo reflexivo de Gibbs, que permitió analizar la práctica docente y el uso de metodologías activas y herramientas tecnológicas en el aula.</p>
+<p>Durante dicha reflexión se analizó una experiencia educativa relacionada con el uso de recursos digitales y metodologías activas en el aula, observándose que cuando el alumnado participa de forma activa en su aprendizaje aumenta su motivación, su implicación y la comprensión de los contenidos.</p>
+<p>Asimismo, se detectó que el alumnado responde de forma más positiva cuando:</p>
+<ul>
+<li>las actividades están relacionadas con su entorno cercano,</li>
+<li>se utilizan recursos visuales, manipulativos y digitales,</li>
+<li>se fomenta la participación y el trabajo cooperativo,</li>
+<li>y se proponen retos o productos finales que den sentido al aprendizaje.</li>
+</ul>
+<p>A partir de esta reflexión se concluyó la importancia de diseñar situaciones de aprendizaje que sitúen al alumnado como protagonista del proceso educativo, permitiéndole investigar, explorar y construir su propio conocimiento.</p>
+<p>Por este motivo, se ha seleccionado una situación de aprendizaje basada en la exploración del entorno y el desarrollo del pensamiento espacial, ya que permite trabajar contenidos curriculares de manera significativa y contextualizada.</p>
+<p>Además, la elaboración de un producto final cooperativo, como es el mural de los monumentos del centro de Málaga, favorece el desarrollo de competencias clave, especialmente la competencia digital, la competencia en comunicación lingüística, la competencia social y ciudadana y la conciencia y expresión culturales, promoviendo un aprendizaje activo, significativo y conectado con la realidad del alumnado.</p>
+<p>En definitiva, esta situación de aprendizaje responde a los principios de una enseñanza activa y competencial, promoviendo la curiosidad, la investigación y el aprendizaje significativo del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777208843133-m8vwflea5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>CENTRO DE INTERÉS O TEMÁTICA</strong></p>\n<p>Esta situación de aprendizaje se centra en la orientación en el espacio cercano y el conocimiento del entorno, trabajando conceptos básicos como los puntos cardinales, los mapas, los planos y la brújula.</p>\n<p>A partir de actividades prácticas y cercanas a la realidad del alumnado, se pretende que los estudiantes comprendan cómo orientarse en su entorno y cómo representar el espacio mediante diferentes herramientas.</p>\n<p>Además, la situación de aprendizaje integra el uso de herramientas digitales, como mapas interactivos, sistemas de geolocalización y recursos audiovisuales, favoreciendo así el desarrollo de la competencia digital del alumnado.</p>\n<p>El proyecto culmina con la elaboración de un mural colaborativo sobre algunos monumentos del centro de Málaga, tras realizar una exploración del entorno utilizando mapas y recursos digitales.</p>\n<p> </p>\n<p><strong>NIVEL EDUCATIVO</strong></p>\n<p>2º curso de Educación Primaria.</p>\n<p> </p>\n<p><strong>TEMPORALIZACIÓN</strong></p>\n<p>La situación de aprendizaje se desarrollará a lo largo de 10-12 sesiones dentro de la programación del área.</p>\n<p>Distribución aproximada:</p>\n<ul>\n<li>Sesiones 1-2: Actividades de motivación y activación de conocimientos previos.</li>\n<li>Sesiones 3-5: Introducción a los planos, mapas y puntos cardinales.</li>\n<li>Sesiones 6-8: Actividades prácticas de orientación y exploración digital del entorno.</li>\n<li>Sesiones 9-10: Investigación de monumentos del centro de Málaga.</li>\n<li>Sesiones 11-12: Elaboración del mural y presentación final.</li>\n</ul>\n<p> </p>\n<p><strong>MATERIAS IMPLICADAS</strong></p>\n<p>La situación de aprendizaje se desarrolla principalmente en el área de:</p>\n<p>Conocimiento del Medio Natural, Social y Cultural</p>\n<p>También se trabajan de forma transversal:</p>\n<ul>\n<li>Lengua Castellana: comprensión lectora, expresión oral y explicación del trabajo realizado.</li>\n<li>Educación Artística: diseño y elaboración del mural final.</li>\n<li>Competencia Digital: uso de mapas digitales, búsqueda de información y presentación de contenidos.</li>\n</ul>\n<p> </p>\n<p><strong>IDIOMA</strong></p>\n<p>El idioma principal de desarrollo será castellano.</p>\n<p> </p>\n<p><strong>DESCRIPCIÓN DEL APRENDIZAJE</strong></p>\n<p>Con esta situación de aprendizaje se pretende que el alumnado:</p>\n<ul>\n<li>Comprenda cómo orientarse en el espacio cercano.</li>\n<li>Identifique y utilice herramientas básicas de orientación como los puntos cardinales, la brújula, los mapas y los planos.</li>\n<li>Desarrolle habilidades de observación, exploración e interpretación del entorno.</li>\n<li>Aprenda a representar el espacio de forma sencilla mediante planos.</li>\n<li>Desarrolle habilidades digitales básicas mediante el uso de mapas digitales y recursos tecnológicos.</li>\n<li>Trabaje de forma cooperativa para investigar y elaborar un producto común.</li>\n</ul>\n<p>Durante el desarrollo de la situación de aprendizaje el alumnado realizará diferentes actividades como:</p>\n<ul>\n<li>Observación y análisis de mapas y planos</li>\n<li>Uso de Google Maps o Google Earth para localizar lugares cercanos</li>\n<li>Exploración guiada del entorno</li>\n<li>Búsqueda de información en internet sobre monumentos de Málaga</li>\n<li>Presentación de la información utilizando recursos visuales proyectados en clase.</li>\n</ul>\n<p>El<strong> producto final</strong> consistirá en la <strong>elaboración de un mural colaborativo sobre monumentos del centro de Málaga</strong>, acompañado de una breve explicación oral en la que el alumnado mostrará la localización de dichos monumentos en un mapa digital.</p>\n<p>Este producto permitirá aplicar los conocimientos adquiridos y desarrollar habilidades de comunicación, cooperación y competencia digital.</p>\n<p> </p>\n<p><strong>JUSTIFICACIÓN </strong></p>\n<p>La elección de esta situación de aprendizaje se fundamenta en la reflexión realizada previamente mediante una rutina de pensamiento basada en el modelo reflexivo de Gibbs, que permitió analizar la práctica docente y el uso de metodologías activas y herramientas tecnológicas en el aula.</p>\n<p>Durante dicha reflexión se analizó una experiencia educativa relacionada con el uso de recursos digitales y metodologías activas en el aula, observándose que cuando el alumnado participa de forma activa en su aprendizaje aumenta su motivación, su implicación y la comprensión de los contenidos.</p>\n<p>Asimismo, se detectó que el alumnado responde de forma más positiva cuando:</p>\n<ul>\n<li>las actividades están relacionadas con su entorno cercano,</li>\n<li>se utilizan recursos visuales, manipulativos y digitales,</li>\n<li>se fomenta la participación y el trabajo cooperativo,</li>\n<li>y se proponen retos o productos finales que den sentido al aprendizaje.</li>\n</ul>\n<p>A partir de esta reflexión se concluyó la importancia de diseñar situaciones de aprendizaje que sitúen al alumnado como protagonista del proceso educativo, permitiéndole investigar, explorar y construir su propio conocimiento.</p>\n<p>Por este motivo, se ha seleccionado una situación de aprendizaje basada en la exploración del entorno y el desarrollo del pensamiento espacial, ya que permite trabajar contenidos curriculares de manera significativa y contextualizada.</p>\n<p>Además, la elaboración de un producto final cooperativo, como es el mural de los monumentos del centro de Málaga, favorece el desarrollo de competencias clave, especialmente la competencia digital, la competencia en comunicación lingüística, la competencia social y ciudadana y la conciencia y expresión culturales, promoviendo un aprendizaje activo, significativo y conectado con la realidad del alumnado.</p>\n<p>En definitiva, esta situación de aprendizaje responde a los principios de una enseñanza activa y competencial, promoviendo la curiosidad, la investigación y el aprendizaje significativo del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>f14c2852-c8a4-4742-9462-409161970e99</odePageId>
+      <odeBlockId>block-1777217629376-w7erqqowg</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>f14c2852-c8a4-4742-9462-409161970e99</odePageId>
+          <odeBlockId>block-1777217629376-w7erqqowg</odeBlockId>
+          <odeIdeviceId>idevice-1777217629374-x817v9mzm</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Situación de Aprendizaje: ¿Dónde estamos? Aprendemos a orientarnos en nuestro entorno</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked">SDA Conocimiento del medio - 2º primaria&nbsp;</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777208705839-ra4u3x70m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Protección de datos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777208705839-ra4u3x70m</odePageId>
+      <odeBlockId>block-1777210096436-js02gt9hq</odeBlockId>
+      <blockName>Normas para usar Internet de forma segura</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777208705839-ra4u3x70m</odePageId>
+          <odeBlockId>block-1777210096436-js02gt9hq</odeBlockId>
+          <odeIdeviceId>idevice-1777210096427-x4ot69r83</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /><img src="{{context_path}}/content/resources/Licencias y seguridad. Belén Martín Adell.jpg" width="1169" height="2482" alt="Normas para usar Internet de forma segura" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777210096427-x4ot69r83","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /><img src=\"{{context_path}}/content/resources/Licencias y seguridad. Belén Martín Adell.jpg\" width=\"1169\" height=\"2482\" alt=\"Normas para usar Internet de forma segura\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777208716383-uu23xyva5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Producto final del alumnado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Producto final del alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777208716383-uu23xyva5</odePageId>
+      <odeBlockId>block-1777210303132-tnu114ffj</odeBlockId>
+      <blockName>Mural colaborativo sobre monumentos de Málaga</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777208716383-uu23xyva5</odePageId>
+          <odeBlockId>block-1777210303132-tnu114ffj</odeBlockId>
+          <odeIdeviceId>idevice-1777210303128-zl3r732rj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>El producto final de este proyecto será la creación de un mural digital colaborativo sobre algunos monumentos del centro de Málaga.</strong></p>
+<p>Durante el proyecto, vais a explorar vuestro entorno cercano utilizando mapas y recursos digitales para localizar distintos monumentos y descubrir información básica sobre ellos. Después, trabajaréis en pequeños grupos y cada grupo se encargará de investigar uno de los monumentos seleccionados.</p>
+<p>Cada equipo deberá incluir:</p>
+<ul>
+<li>El nombre del monumento</li>
+<li>Su localización en el mapa</li>
+<li>Una imagen representativa</li>
+<li>Una breve explicación adaptada a vuestro nivel</li>
+</ul>
+<p>Para crear el mural digital utilizaremos <strong>Padlet</strong>. Con esta herramienta podréis añadir fácilmente imágenes, textos, enlaces o ubicaciones en mapas. Es muy visual, intuitiva y fácil de usar, por lo que os ayudará a trabajar aunque todavía estéis aprendiendo a usar herramientas digitales. Además, funciona desde el navegador, así que no será necesario instalar ningún programa.</p>
+<p>Otra ventaja es que permite trabajar de forma cooperativa: toda la clase participará en un mismo mural digital. Cada grupo aportará su información sobre un monumento y, entre todos, construiréis un único producto final con todo lo aprendido. Después, podréis presentar vuestro trabajo al resto de la clase, explicando vuestra parte y practicando la expresión oral.</p>
+<p>Como alternativa, también podríamos usar <strong>Genially</strong>, que permite crear murales o presentaciones más dinámicas e interactivas, con imágenes y ventanas de información.</p>
+<p>Con este proyecto no solo aprenderéis sobre vuestro entorno y cómo orientaros en él, sino que también desarrollaréis vuestra competencia digital, aprenderéis a trabajar en equipo y a comunicar información de forma clara, visual y sencilla.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777210303128-zl3r732rj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>El producto final de este proyecto será la creación de un mural digital colaborativo sobre algunos monumentos del centro de Málaga.</strong></p>\n<p>Durante el proyecto, vais a explorar vuestro entorno cercano utilizando mapas y recursos digitales para localizar distintos monumentos y descubrir información básica sobre ellos. Después, trabajaréis en pequeños grupos y cada grupo se encargará de investigar uno de los monumentos seleccionados.</p>\n<p>Cada equipo deberá incluir:</p>\n<ul>\n<li>El nombre del monumento</li>\n<li>Su localización en el mapa</li>\n<li>Una imagen representativa</li>\n<li>Una breve explicación adaptada a vuestro nivel</li>\n</ul>\n<p>Para crear el mural digital utilizaremos <strong>Padlet</strong>. Con esta herramienta podréis añadir fácilmente imágenes, textos, enlaces o ubicaciones en mapas. Es muy visual, intuitiva y fácil de usar, por lo que os ayudará a trabajar aunque todavía estéis aprendiendo a usar herramientas digitales. Además, funciona desde el navegador, así que no será necesario instalar ningún programa.</p>\n<p>Otra ventaja es que permite trabajar de forma cooperativa: toda la clase participará en un mismo mural digital. Cada grupo aportará su información sobre un monumento y, entre todos, construiréis un único producto final con todo lo aprendido. Después, podréis presentar vuestro trabajo al resto de la clase, explicando vuestra parte y practicando la expresión oral.</p>\n<p>Como alternativa, también podríamos usar <strong>Genially</strong>, que permite crear murales o presentaciones más dinámicas e interactivas, con imágenes y ventanas de información.</p>\n<p>Con este proyecto no solo aprenderéis sobre vuestro entorno y cómo orientaros en él, sino que también desarrollaréis vuestra competencia digital, aprenderéis a trabajar en equipo y a comunicar información de forma clara, visual y sencilla.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777208724034-wkh8y0u7o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777208724034-wkh8y0u7o</odePageId>
+      <odeBlockId>block-1777218069919-htf7s00vs</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777208724034-wkh8y0u7o</odePageId>
+          <odeBlockId>block-1777218069919-htf7s00vs</odeBlockId>
+          <odeIdeviceId>idevice-1777218069914-0t9s7fdhm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta parte encontrarás diferentes <strong>recursos</strong> que te ayudarán a aprender y a realizar las actividades del proyecto.</p>
+<p>Hemos organizado los contenidos en dos apartados:</p>
+<ul>
+<li><strong>Herramienta para el alumnado</strong>, donde podrás acceder a vídeos, mapas y otros recursos para investigar y aprender.</li>
+<li><strong>Herramienta para el docente,</strong> que contiene recursos que utilizará el profesorado para ayudarte durante el proyecto.</li>
+</ul>
+<p>Explora los materiales, aprende a tu ritmo y utiliza estos recursos para descubrir más sobre tu entorno.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777218069914-0t9s7fdhm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta parte encontrarás diferentes <strong>recursos</strong> que te ayudarán a aprender y a realizar las actividades del proyecto.</p>\n<p>Hemos organizado los contenidos en dos apartados:</p>\n<ul>\n<li><strong>Herramienta para el alumnado</strong>, donde podrás acceder a vídeos, mapas y otros recursos para investigar y aprender.</li>\n<li><strong>Herramienta para el docente,</strong> que contiene recursos que utilizará el profesorado para ayudarte durante el proyecto.</li>\n</ul>\n<p>Explora los materiales, aprende a tu ritmo y utiliza estos recursos para descubrir más sobre tu entorno.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777208758591-i4axw9y7e</odePageId>
+  <odeParentPageId>page-1777208724034-wkh8y0u7o</odeParentPageId>
+  <pageName>4.1. Herramienta alumnado</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1. Herramienta alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.1. Herramienta alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777208758591-i4axw9y7e</odePageId>
+      <odeBlockId>block-1777210553878-jxbu7mjps</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777208758591-i4axw9y7e</odePageId>
+          <odeBlockId>block-1777210553878-jxbu7mjps</odeBlockId>
+          <odeIdeviceId>idevice-1777210553871-i4291oivq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para comenzar el proyecto, vais a utilizar un tablero creado con Padlet donde encontraréis todos los recursos necesarios.</p>
+<p>En este espacio podréis acceder a distintos materiales que os ayudarán a investigar y aprender sobre la orientación y el conocimiento del entorno. Por ejemplo, encontraréis:</p>
+<ul>
+<li>Vídeos sobre los puntos cardinales</li>
+<li>Tutoriales de Google Maps</li>
+<li>Recursos sobre mapas y planos</li>
+<li>Páginas web para investigar monumentos de Málaga</li>
+<li>Ejemplos de murales o presentaciones visuales</li>
+</ul>
+<p>Podréis utilizar este tablero como guía durante todo el proyecto para consultar información, aprender cosas nuevas y ayudaros a realizar vuestro trabajo.</p>
+<p>Aquí tenéis el enlace para acceder al Padlet:<br /><a href="https://padlet.com/belenmartin9/recursos-orientaci-n-y-conocimiento-del-entorno-f76rkqif664987rr" title="">https://padlet.com/belenmartin9/recursos-orientaci-n-y-conocimiento-del-entorno-f76rkqif664987rr</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777210553871-i4291oivq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para comenzar el proyecto, vais a utilizar un tablero creado con Padlet donde encontraréis todos los recursos necesarios.</p>\n<p>En este espacio podréis acceder a distintos materiales que os ayudarán a investigar y aprender sobre la orientación y el conocimiento del entorno. Por ejemplo, encontraréis:</p>\n<ul>\n<li>Vídeos sobre los puntos cardinales</li>\n<li>Tutoriales de Google Maps</li>\n<li>Recursos sobre mapas y planos</li>\n<li>Páginas web para investigar monumentos de Málaga</li>\n<li>Ejemplos de murales o presentaciones visuales</li>\n</ul>\n<p>Podréis utilizar este tablero como guía durante todo el proyecto para consultar información, aprender cosas nuevas y ayudaros a realizar vuestro trabajo.</p>\n<p>Aquí tenéis el enlace para acceder al Padlet:<br /><a href=\"https://padlet.com/belenmartin9/recursos-orientaci-n-y-conocimiento-del-entorno-f76rkqif664987rr\" title=\"\">https://padlet.com/belenmartin9/recursos-orientaci-n-y-conocimiento-del-entorno-f76rkqif664987rr</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777208747364-hb46njjv7</odePageId>
+  <odeParentPageId>page-1777208724034-wkh8y0u7o</odeParentPageId>
+  <pageName>4.2. Herramienta docente</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2. Herramienta docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.2. Herramienta docente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777208747364-hb46njjv7</odePageId>
+      <odeBlockId>block-1777214692186-qvzclulb8</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777208747364-hb46njjv7</odePageId>
+          <odeBlockId>block-1777214692186-qvzclulb8</odeBlockId>
+          <odeIdeviceId>idevice-1777214692178-04zgsi03d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>He utilizado <strong>Symbaloo</strong> para organizar una serie de herramientas digitales en un panel visual muy intuitivo, que permite acceder de forma rápida y sencilla a distintos recursos.</p>
+<p>En este panel he incluido algunas de las herramientas que utilizo habitualmente en el aula y que pueden resultarnos útiles en nuestra práctica docente diaria, como por ejemplo:</p>
+<ul>
+<li>Google Maps y Google Earth</li>
+<li>Genially</li>
+<li>Canva</li>
+<li>Kahoot</li>
+<li>YouTube con contenido educativo</li>
+<li>Google Drive</li>
+<li>Otras herramientas para la creación de murales y presentaciones</li>
+</ul>
+<p>La idea es que este panel pueda servirnos como un pequeño banco de recursos común, al que podamos recurrir para diseñar actividades, dinamizar el aula o seguir fomentando la competencia digital del alumnado.</p>
+<p>Os dejo el enlace por si queréis echarle un vistazo y utilizarlo en vuestras clases:<br /><a href="https://www.symbaloo.com/shared/AAAABvYmb8AAA42ADs-F7A==" title="">https://www.symbaloo.com/shared/AAAABvYmb8AAA42ADs-F7A==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777214692178-04zgsi03d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>He utilizado <strong>Symbaloo</strong> para organizar una serie de herramientas digitales en un panel visual muy intuitivo, que permite acceder de forma rápida y sencilla a distintos recursos.</p>\n<p>En este panel he incluido algunas de las herramientas que utilizo habitualmente en el aula y que pueden resultarnos útiles en nuestra práctica docente diaria, como por ejemplo:</p>\n<ul>\n<li>Google Maps y Google Earth</li>\n<li>Genially</li>\n<li>Canva</li>\n<li>Kahoot</li>\n<li>YouTube con contenido educativo</li>\n<li>Google Drive</li>\n<li>Otras herramientas para la creación de murales y presentaciones</li>\n</ul>\n<p>La idea es que este panel pueda servirnos como un pequeño banco de recursos común, al que podamos recurrir para diseñar actividades, dinamizar el aula o seguir fomentando la competencia digital del alumnado.</p>\n<p>Os dejo el enlace por si queréis echarle un vistazo y utilizarlo en vuestras clases:<br /><a href=\"https://www.symbaloo.com/shared/AAAABvYmb8AAA42ADs-F7A==\" title=\"\">https://www.symbaloo.com/shared/AAAABvYmb8AAA42ADs-F7A==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777208735777-qp8bwwwlo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Línea temporal (Actividades)</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Línea temporal (Actividades)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777208735777-qp8bwwwlo</odePageId>
+      <odeBlockId>block-1777214761807-rvrmelbhx</odeBlockId>
+      <blockName>Sesiones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777208735777-qp8bwwwlo</odePageId>
+          <odeBlockId>block-1777214761807-rvrmelbhx</odeBlockId>
+          <odeIdeviceId>idevice-1777214761798-wa50o6530</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La situación de aprendizaje se desarrollará a lo largo de 10-12 sesiones dentro de la programación del área.</p>
+<p>Distribución aproximada:</p>
+<ul>
+<li>Sesiones 1-2: Actividades de motivación y activación de conocimientos previos.</li>
+<li>Sesiones 3-5: Introducción a los planos, mapas y puntos cardinales.</li>
+<li>Sesiones 6-8: Actividades prácticas de orientación y exploración digital del entorno.</li>
+<li>Sesiones 9-10: Investigación de monumentos del centro de Málaga.</li>
+<li>Sesiones 11-12: Elaboración del mural y presentación final.<br /></li>
+</ul>
+<p></p>
+<p><strong>Sesiones 1-2: Empezamos el proyecto</strong><br />En estas primeras sesiones vamos a conocernos mejor como equipo y a descubrir qué sabéis ya sobre el tema. Haremos actividades divertidas para hablar sobre cómo nos orientamos, si sabemos usar mapas o si conocemos lugares importantes de Málaga. También veremos imágenes, haremos juegos y compartiremos ideas entre todos.</p>
+<p><strong>Sesiones 3-5: Aprendemos a orientarnos</strong><br />En estas sesiones aprenderéis qué son los planos y los mapas, y cómo utilizarlos. También descubriremos los puntos cardinales (norte, sur, este y oeste) y para qué sirven. Usaremos ejemplos, juegos y herramientas digitales como Google Maps para practicar.</p>
+<p><strong>Sesiones 6-8: Practicamos y exploramos</strong><br />Ahora toca poner en práctica lo aprendido. Haréis actividades para orientaros, buscar lugares en mapas y explorar vuestro entorno de forma digital. Trabajaremos en equipo y utilizaremos herramientas digitales para investigar y movernos por el mapa como auténticos exploradores.</p>
+<p><strong>Sesiones 9-10: Investigamos monumentos</strong><br />En estas sesiones os convertiréis en pequeños investigadores. Cada grupo elegirá un monumento del centro de Málaga y buscará información sobre él: dónde está, cómo es, y datos interesantes. Utilizaréis recursos digitales para encontrar la información.</p>
+<p><strong>Sesiones 11-12: Creamos y presentamos</strong><br />Para terminar, cada grupo elaborará su parte del mural digital utilizando Padlet. Después, presentaréis vuestro trabajo al resto de la clase, explicando lo que habéis aprendido sobre vuestro monumento. Así, entre todos, crearéis un mural final con mucha información interesante.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777214761798-wa50o6530","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La situación de aprendizaje se desarrollará a lo largo de 10-12 sesiones dentro de la programación del área.</p>\n<p>Distribución aproximada:</p>\n<ul>\n<li>Sesiones 1-2: Actividades de motivación y activación de conocimientos previos.</li>\n<li>Sesiones 3-5: Introducción a los planos, mapas y puntos cardinales.</li>\n<li>Sesiones 6-8: Actividades prácticas de orientación y exploración digital del entorno.</li>\n<li>Sesiones 9-10: Investigación de monumentos del centro de Málaga.</li>\n<li>Sesiones 11-12: Elaboración del mural y presentación final.<br /></li>\n</ul>\n<p></p>\n<p><strong>Sesiones 1-2: Empezamos el proyecto</strong><br />En estas primeras sesiones vamos a conocernos mejor como equipo y a descubrir qué sabéis ya sobre el tema. Haremos actividades divertidas para hablar sobre cómo nos orientamos, si sabemos usar mapas o si conocemos lugares importantes de Málaga. También veremos imágenes, haremos juegos y compartiremos ideas entre todos.</p>\n<p><strong>Sesiones 3-5: Aprendemos a orientarnos</strong><br />En estas sesiones aprenderéis qué son los planos y los mapas, y cómo utilizarlos. También descubriremos los puntos cardinales (norte, sur, este y oeste) y para qué sirven. Usaremos ejemplos, juegos y herramientas digitales como Google Maps para practicar.</p>\n<p><strong>Sesiones 6-8: Practicamos y exploramos</strong><br />Ahora toca poner en práctica lo aprendido. Haréis actividades para orientaros, buscar lugares en mapas y explorar vuestro entorno de forma digital. Trabajaremos en equipo y utilizaremos herramientas digitales para investigar y movernos por el mapa como auténticos exploradores.</p>\n<p><strong>Sesiones 9-10: Investigamos monumentos</strong><br />En estas sesiones os convertiréis en pequeños investigadores. Cada grupo elegirá un monumento del centro de Málaga y buscará información sobre él: dónde está, cómo es, y datos interesantes. Utilizaréis recursos digitales para encontrar la información.</p>\n<p><strong>Sesiones 11-12: Creamos y presentamos</strong><br />Para terminar, cada grupo elaborará su parte del mural digital utilizando Padlet. Después, presentaréis vuestro trabajo al resto de la clase, explicando lo que habéis aprendido sobre vuestro monumento. Así, entre todos, crearéis un mural final con mucha información interesante.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777208767151-4nxz39185</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777208767151-4nxz39185</odePageId>
+      <odeBlockId>block-1777218121358-y3iwd1mml</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777208767151-4nxz39185</odePageId>
+          <odeBlockId>block-1777218121358-y3iwd1mml</odeBlockId>
+          <odeIdeviceId>idevice-1777218121357-ru3q0e72d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta parte podrás ver <strong>cómo se va a valorar tu trabajo</strong> durante el proyecto.</p>
+<p>La evaluación se divide en dos apartados:</p>
+<ul>
+<li><strong>Criterios de evaluación</strong>, que explican qué tienes que aprender y qué se tendrá en cuenta para valorar tu trabajo.</li>
+<li><strong>Instrumentos de evaluación</strong>, que son las herramientas que se utilizarán para evaluar, como por ejemplo rúbricas o listas de control.</li>
+</ul>
+<p>Así podrás saber desde el principio qué se espera de ti y cómo puedes hacerlo cada vez mejor.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777218121357-ru3q0e72d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta parte podrás ver <strong>cómo se va a valorar tu trabajo</strong> durante el proyecto.</p>\n<p>La evaluación se divide en dos apartados:</p>\n<ul>\n<li><strong>Criterios de evaluación</strong>, que explican qué tienes que aprender y qué se tendrá en cuenta para valorar tu trabajo.</li>\n<li><strong>Instrumentos de evaluación</strong>, que son las herramientas que se utilizarán para evaluar, como por ejemplo rúbricas o listas de control.</li>\n</ul>\n<p>Así podrás saber desde el principio qué se espera de ti y cómo puedes hacerlo cada vez mejor.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777208778998-ph6d4g4lu</odePageId>
+  <odeParentPageId>page-1777208767151-4nxz39185</odeParentPageId>
+  <pageName>6.1. Criterios de evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1. Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777208778998-ph6d4g4lu</odePageId>
+      <odeBlockId>block-1777215467968-xf0i1jkzd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777208778998-ph6d4g4lu</odePageId>
+          <odeBlockId>block-1777215467968-xf0i1jkzd</odeBlockId>
+          <odeIdeviceId>idevice-1777215467967-ykmw41i6f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de empezar, es importante que sepáis cómo se va a valorar vuestro trabajo durante este proyecto.</p>
+<p>A lo largo de las diferentes actividades, iremos viendo todo lo que vais aprendiendo: cómo trabajáis en equipo, cómo utilizáis los mapas y herramientas digitales, cómo investigáis la información y cómo la explicáis a los demás.</p>
+<p>No solo se tendrá en cuenta el resultado final, sino también vuestro esfuerzo, vuestra participación y cómo vais mejorando poco a poco. Cada actividad tendrá unos criterios claros para que sepáis qué se espera de vosotros y cómo podéis hacerlo cada vez mejor.</p>
+<p>De esta forma, podréis aprender, disfrutar del proyecto y ser conscientes de vuestros propios avances.<br /><br />A continuación, podéis ver los criterios que vamos a utilizar para evaluar vuestro trabajo. Estos criterios os ayudarán a entender qué es importante en cada actividad y qué tenéis que hacer para hacerlo bien.<br /><br /></p>
+<table border="1" style="width: 100%; height: 2390.77px; background-color: #c2e0f4; border-color: #236fa1; border-style: solid;">
+<tbody>
+<tr style="height: 37.8125px;">
+<td style="width: 49.9357%; height: 37.8125px; background-color: #c2e0f4; border-color: #236fa1; border-style: solid; text-align: center;"><strong>ACTIVIDADES</strong></td>
+<td style="width: 49.9357%; text-align: center; height: 37.8125px; border-color: #236fa1; border-style: solid;"><strong>CRITERIOS DE EVALUACIÓN</strong></td>
+</tr>
+<tr style="height: 95.4141px;">
+<td style="width: 49.9357%; height: 95.4141px; border-color: #236fa1; border-style: solid;">Lluvia de ideas sobre orientación y el entorno</td>
+<td style="width: 49.9357%; height: 95.4141px; border-color: #236fa1; border-style: solid;">2.1.b. Mostrar curiosidad por objetos, hechos y fenómenos cercanos, formulando preguntas y realizando predicciones. </td>
+</tr>
+<tr style="height: 239.438px;">
+<td style="width: 49.9357%; height: 239.438px; border-color: #236fa1; border-style: solid;">Observación de mapas y planos</td>
+<td style="width: 49.9357%; height: 239.438px; border-color: #236fa1; border-style: solid;">5.1.b. Reconocer las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y procesos adecuados de forma pautada, comprendiendo y valorando su riqueza y diversidad. </td>
+</tr>
+<tr style="height: 239.438px;">
+<td style="width: 49.9357%; height: 239.438px; border-color: #236fa1; border-style: solid;">Aprendizaje de puntos cardinales con videos y juegos</td>
+<td style="width: 49.9357%; height: 239.438px; border-color: #236fa1; border-style: solid;">5.1.b. Reconocer las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y procesos adecuados de forma pautada, comprendiendo y valorando su riqueza y diversidad.</td>
+</tr>
+<tr style="height: 234.438px;">
+<td style="width: 49.9357%; height: 234.438px; border-color: #236fa1; border-style: solid;">Localización del colegio en Google Maps</td>
+<td style="width: 49.9357%; height: 234.438px; border-color: #236fa1; border-style: solid;">
+<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura. </p>
+<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural. </p>
+</td>
+</tr>
+<tr style="height: 210.633px;">
+<td style="width: 49.9357%; height: 210.633px; border-color: #236fa1; border-style: solid;">Actividad práctica de orientación</td>
+<td style="width: 49.9357%; height: 210.633px; border-color: #236fa1; border-style: solid;">2.3.b. Participar en experimentos pautados o guiados, cuando la investigación lo requiera, utilizando diferentes técnicas sencillas de indagación, empleando de forma segura instrumentos y registrando las observaciones a través de registros claros. </td>
+</tr>
+<tr style="height: 124.219px;">
+<td style="width: 49.9357%; height: 124.219px; border-color: #236fa1; border-style: solid;">Elaboración de un plano sencillo</td>
+<td style="width: 49.9357%; height: 124.219px; border-color: #236fa1; border-style: solid;">2.4.b. Dar ejemplos de posibles respuestas a las preguntas planteadas, comparando la información y resultados obtenidos con las predicciones realizadas. </td>
+</tr>
+<tr style="height: 153.023px;">
+<td style="width: 49.9357%; height: 153.023px; border-color: #236fa1; border-style: solid;">Exploración digital de monumentos</td>
+<td style="width: 49.9357%; height: 153.023px; border-color: #236fa1; border-style: solid;">2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural. </td>
+</tr>
+<tr style="height: 473.07px;">
+<td style="width: 49.9357%; height: 473.07px; border-color: #236fa1; border-style: solid;">Búsqueda de información guiada</td>
+<td style="width: 49.9357%; height: 473.07px; border-color: #236fa1; border-style: solid;">
+<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural. </p>
+<p>8.1.b. Recoger información acerca de manifestaciones culturales del propio entorno, identificando algunas manifestaciones populares del patrimonio andaluz y algunas obras de artistas de Andalucía, mostrando respeto consigo y a otras personas, facilitando el bienestar propio y de los otros, valorando su diversidad y riqueza, y apreciándolas como fuente de aprendizaje. </p>
+</td>
+</tr>
+<tr style="height: 210.633px;">
+<td style="width: 49.9357%; height: 210.633px; border-color: #236fa1; border-style: solid;">Organización de la información</td>
+<td style="width: 49.9357%; height: 210.633px; border-color: #236fa1; border-style: solid;">2.3.b. Participar en experimentos pautados o guiados, cuando la investigación lo requiera, utilizando diferentes técnicas sencillas de indagación, empleando de forma segura instrumentos y registrando las observaciones a través de registros claros. </td>
+</tr>
+<tr style="height: 153.023px;">
+<td style="width: 49.9357%; height: 153.023px; border-color: #236fa1; border-style: solid;">Creación del mural colaborativo</td>
+<td style="width: 49.9357%; height: 153.023px; border-color: #236fa1; border-style: solid;">3.1.b. Realizar, de forma guiada, un producto final sencillo que dé solución a un problema de diseño, probando en equipo diferentes prototipos y utilizando de forma segura los materiales adecuados. </td>
+</tr>
+<tr style="height: 95.4141px;">
+<td style="width: 49.9357%; height: 95.4141px; border-color: #236fa1; border-style: solid;">Preparación de exposición</td>
+<td style="width: 49.9357%; height: 95.4141px; border-color: #236fa1; border-style: solid;">2.5.b. Comunicar de forma oral o gráfica el resultado de las investigaciones, explicando los pasos seguidos con ayuda de un guion. </td>
+</tr>
+<tr style="height: 124.219px;">
+<td style="width: 49.9357%; height: 124.219px; border-color: #236fa1; border-style: solid;">Exposición final del proyecto</td>
+<td style="width: 49.9357%; height: 124.219px; border-color: #236fa1; border-style: solid;">3.2.b. Mostrar interés por el pensamiento computacional, participando en la resolución guiada de problemas sencillos de programación. </td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777215467967-ykmw41i6f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de empezar, es importante que sepáis cómo se va a valorar vuestro trabajo durante este proyecto.</p>\n<p>A lo largo de las diferentes actividades, iremos viendo todo lo que vais aprendiendo: cómo trabajáis en equipo, cómo utilizáis los mapas y herramientas digitales, cómo investigáis la información y cómo la explicáis a los demás.</p>\n<p>No solo se tendrá en cuenta el resultado final, sino también vuestro esfuerzo, vuestra participación y cómo vais mejorando poco a poco. Cada actividad tendrá unos criterios claros para que sepáis qué se espera de vosotros y cómo podéis hacerlo cada vez mejor.</p>\n<p>De esta forma, podréis aprender, disfrutar del proyecto y ser conscientes de vuestros propios avances.<br /><br />A continuación, podéis ver los criterios que vamos a utilizar para evaluar vuestro trabajo. Estos criterios os ayudarán a entender qué es importante en cada actividad y qué tenéis que hacer para hacerlo bien.<br /><br /></p>\n<table border=\"1\" style=\"width: 100%; height: 2390.77px; background-color: #c2e0f4; border-color: #236fa1; border-style: solid;\">\n<tbody>\n<tr style=\"height: 37.8125px;\">\n<td style=\"width: 49.9357%; height: 37.8125px; background-color: #c2e0f4; border-color: #236fa1; border-style: solid; text-align: center;\"><strong>ACTIVIDADES</strong></td>\n<td style=\"width: 49.9357%; text-align: center; height: 37.8125px; border-color: #236fa1; border-style: solid;\"><strong>CRITERIOS DE EVALUACIÓN</strong></td>\n</tr>\n<tr style=\"height: 95.4141px;\">\n<td style=\"width: 49.9357%; height: 95.4141px; border-color: #236fa1; border-style: solid;\">Lluvia de ideas sobre orientación y el entorno</td>\n<td style=\"width: 49.9357%; height: 95.4141px; border-color: #236fa1; border-style: solid;\">2.1.b. Mostrar curiosidad por objetos, hechos y fenómenos cercanos, formulando preguntas y realizando predicciones. </td>\n</tr>\n<tr style=\"height: 239.438px;\">\n<td style=\"width: 49.9357%; height: 239.438px; border-color: #236fa1; border-style: solid;\">Observación de mapas y planos</td>\n<td style=\"width: 49.9357%; height: 239.438px; border-color: #236fa1; border-style: solid;\">5.1.b. Reconocer las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y procesos adecuados de forma pautada, comprendiendo y valorando su riqueza y diversidad. </td>\n</tr>\n<tr style=\"height: 239.438px;\">\n<td style=\"width: 49.9357%; height: 239.438px; border-color: #236fa1; border-style: solid;\">Aprendizaje de puntos cardinales con videos y juegos</td>\n<td style=\"width: 49.9357%; height: 239.438px; border-color: #236fa1; border-style: solid;\">5.1.b. Reconocer las características, la organización y las propiedades de los elementos del medio natural, social y cultural a través de metodologías de indagación, utilizando las herramientas y procesos adecuados de forma pautada, comprendiendo y valorando su riqueza y diversidad.</td>\n</tr>\n<tr style=\"height: 234.438px;\">\n<td style=\"width: 49.9357%; height: 234.438px; border-color: #236fa1; border-style: solid;\">Localización del colegio en Google Maps</td>\n<td style=\"width: 49.9357%; height: 234.438px; border-color: #236fa1; border-style: solid;\">\n<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura. </p>\n<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural. </p>\n</td>\n</tr>\n<tr style=\"height: 210.633px;\">\n<td style=\"width: 49.9357%; height: 210.633px; border-color: #236fa1; border-style: solid;\">Actividad práctica de orientación</td>\n<td style=\"width: 49.9357%; height: 210.633px; border-color: #236fa1; border-style: solid;\">2.3.b. Participar en experimentos pautados o guiados, cuando la investigación lo requiera, utilizando diferentes técnicas sencillas de indagación, empleando de forma segura instrumentos y registrando las observaciones a través de registros claros. </td>\n</tr>\n<tr style=\"height: 124.219px;\">\n<td style=\"width: 49.9357%; height: 124.219px; border-color: #236fa1; border-style: solid;\">Elaboración de un plano sencillo</td>\n<td style=\"width: 49.9357%; height: 124.219px; border-color: #236fa1; border-style: solid;\">2.4.b. Dar ejemplos de posibles respuestas a las preguntas planteadas, comparando la información y resultados obtenidos con las predicciones realizadas. </td>\n</tr>\n<tr style=\"height: 153.023px;\">\n<td style=\"width: 49.9357%; height: 153.023px; border-color: #236fa1; border-style: solid;\">Exploración digital de monumentos</td>\n<td style=\"width: 49.9357%; height: 153.023px; border-color: #236fa1; border-style: solid;\">2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural. </td>\n</tr>\n<tr style=\"height: 473.07px;\">\n<td style=\"width: 49.9357%; height: 473.07px; border-color: #236fa1; border-style: solid;\">Búsqueda de información guiada</td>\n<td style=\"width: 49.9357%; height: 473.07px; border-color: #236fa1; border-style: solid;\">\n<p>2.2.b. Buscar información sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural, social y cultural. </p>\n<p>8.1.b. Recoger información acerca de manifestaciones culturales del propio entorno, identificando algunas manifestaciones populares del patrimonio andaluz y algunas obras de artistas de Andalucía, mostrando respeto consigo y a otras personas, facilitando el bienestar propio y de los otros, valorando su diversidad y riqueza, y apreciándolas como fuente de aprendizaje. </p>\n</td>\n</tr>\n<tr style=\"height: 210.633px;\">\n<td style=\"width: 49.9357%; height: 210.633px; border-color: #236fa1; border-style: solid;\">Organización de la información</td>\n<td style=\"width: 49.9357%; height: 210.633px; border-color: #236fa1; border-style: solid;\">2.3.b. Participar en experimentos pautados o guiados, cuando la investigación lo requiera, utilizando diferentes técnicas sencillas de indagación, empleando de forma segura instrumentos y registrando las observaciones a través de registros claros. </td>\n</tr>\n<tr style=\"height: 153.023px;\">\n<td style=\"width: 49.9357%; height: 153.023px; border-color: #236fa1; border-style: solid;\">Creación del mural colaborativo</td>\n<td style=\"width: 49.9357%; height: 153.023px; border-color: #236fa1; border-style: solid;\">3.1.b. Realizar, de forma guiada, un producto final sencillo que dé solución a un problema de diseño, probando en equipo diferentes prototipos y utilizando de forma segura los materiales adecuados. </td>\n</tr>\n<tr style=\"height: 95.4141px;\">\n<td style=\"width: 49.9357%; height: 95.4141px; border-color: #236fa1; border-style: solid;\">Preparación de exposición</td>\n<td style=\"width: 49.9357%; height: 95.4141px; border-color: #236fa1; border-style: solid;\">2.5.b. Comunicar de forma oral o gráfica el resultado de las investigaciones, explicando los pasos seguidos con ayuda de un guion. </td>\n</tr>\n<tr style=\"height: 124.219px;\">\n<td style=\"width: 49.9357%; height: 124.219px; border-color: #236fa1; border-style: solid;\">Exposición final del proyecto</td>\n<td style=\"width: 49.9357%; height: 124.219px; border-color: #236fa1; border-style: solid;\">3.2.b. Mostrar interés por el pensamiento computacional, participando en la resolución guiada de problemas sencillos de programación. </td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777208789325-u7ya9s3bp</odePageId>
+  <odeParentPageId>page-1777208767151-4nxz39185</odeParentPageId>
+  <pageName>6.2. Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.2. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777208789325-u7ya9s3bp</odePageId>
+      <odeBlockId>block-1777216650141-vrc9uapbd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777208789325-u7ya9s3bp</odePageId>
+          <odeBlockId>block-1777216650141-vrc9uapbd</odeBlockId>
+          <odeIdeviceId>idevice-1777216650135-uuuwsywa1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación de este proyecto no será solo una nota final, sino un proceso que nos ayudará a ver cómo vais aprendiendo y mejorando poco a poco.</p>
+<p>Durante las actividades iremos observando vuestro trabajo, vuestro esfuerzo y cómo vais desarrollando vuestras habilidades. Para ello, utilizaremos diferentes formas de evaluación que nos permitirán conocer tanto cómo trabajáis durante el proyecto como el resultado final.</p>
+<p>En concreto, utilizaremos tres instrumentos de evaluación: una rúbrica, una diana de autoevaluación y una lista de cotejo. Cada uno nos ayudará a ver vuestro aprendizaje desde un punto de vista diferente: cómo os vemos como docentes, cómo os veis vosotros mismos y cómo vais trabajando día a día.</p>
+<p> <br /><strong>1. Rúbrica de evaluación</strong><br />La rúbrica se utilizará para evaluar el trabajo final del proyecto: el mural colaborativo sobre monumentos del centro de Málaga y la exposición oral que realizaréis.</p>
+<p>Con la rúbrica podremos valorar diferentes aspectos importantes de vuestro trabajo, como:</p>
+<ul>
+<li>Lo que habéis aprendido sobre mapas, planos y puntos cardinales</li>
+<li>Cómo utilizáis herramientas digitales</li>
+<li>Cómo os expresáis al explicar vuestro trabajo</li>
+<li>Cómo trabajáis en equipo</li>
+<li>Cómo presentáis el mural final</li>
+</ul>
+<p>Antes de empezar, conoceréis la rúbrica para que sepáis qué se espera de vosotros y podáis hacerlo lo mejor posible.</p>
+<p>Habrá diferentes niveles para valorar vuestro trabajo (por ejemplo: excelente, bien, en proceso o iniciado), lo que nos ayudará a ver vuestro progreso. Además, no solo servirá para poneros una nota, sino también para detectar en qué podéis mejorar y seguir aprendiendo.</p>
+<p>También tendremos en cuenta que cada uno aprende a su ritmo y que trabajar en grupo a veces puede ser diferente para cada persona. Por eso, no solo evaluaremos el resultado final, sino también todo el proceso, observando cómo participáis y trabajáis durante el proyecto.</p>
+<p><strong>Esta será la rúbrica del producto final:</strong></p>
+<p><img src="{{context_path}}/content/resources/Rúbrica mural colaborativo.png" width="1440" height="1018" alt="Rúbrica" /></p>
+<p> </p>
+<p> </p>
+<p><strong>2.     Lista de cotejo</strong></p>
+<p>La lista de cotejo nos servirá para observar cómo trabajáis durante el proyecto, no solo el resultado final.</p>
+<p>Con este instrumento iremos viendo aspectos importantes como:</p>
+<ul>
+<li>Si participáis en las actividades</li>
+<li>Cómo trabajáis en grupo</li>
+<li>Si respetáis las normas</li>
+<li>Cómo utilizáis los materiales y las herramientas digitales</li>
+<li>La actitud que mostráis en clase</li>
+</ul>
+<p>La utilizaremos a lo largo de todas las sesiones, para poder acompañaros mejor en vuestro aprendizaje y ayudaros cuando sea necesario.</p>
+<p>Para recoger la información, utilizaremos un registro sencillo (por ejemplo: “sí”, “en proceso” o “no”), lo que nos permitirá ver fácilmente cómo vais avanzando.</p>
+<p>Gracias a esto, podremos detectar si alguien necesita más ayuda, si hay dificultades al trabajar en equipo o si es necesario explicar algo de otra manera. Así podremos apoyaros mejor y hacer cambios cuando sea necesario para que todos podáis aprender.</p>
+<p><strong>Aquí podéis ver la lista de cotejo que emplearemos en esta unidad:</strong></p>
+<p><img src="{{context_path}}/content/resources/Lista de cotejo.png" width="1440" height="1018" alt="Lista de cotejo" /></p>
+<p> </p>
+<p><strong>3.     Diana de autoevaluación</strong></p>
+<p>También vais a utilizar una diana de evaluación para valorar vuestro propio trabajo.</p>
+<p>La diana es una herramienta visual con forma de círculos, donde podréis indicar cómo creéis que lo habéis hecho en diferentes aspectos del proyecto. Por ejemplo:</p>
+<ul>
+<li>Lo que habéis aprendido</li>
+<li>Cómo habéis trabajado en equipo</li>
+<li>Cómo habéis utilizado las herramientas digitales</li>
+<li>El esfuerzo que habéis puesto</li>
+</ul>
+<p><br />La utilizaremos al final del proyecto, aunque también podremos usarla en algún momento antes para ver cómo vais avanzando.</p>
+<p>Lo más importante de la diana no es la nota, sino que aprendáis a reflexionar sobre vuestro propio trabajo. Así podréis daros cuenta de qué hacéis bien y en qué podéis mejorar.</p>
+<p>Además, hablaremos juntos sobre vuestras respuestas para ayudaros a entender mejor vuestro aprendizaje. A veces puede pasar que penséis que lo habéis hecho mejor o peor de lo que realmente ha sido, y eso también nos ayudará a aprender a conocernos mejor y a seguir mejorando.</p>
+<p>Como todavía estáis aprendiendo a autoevaluaros, la haremos de forma guiada, para que todos entendáis bien cómo usarla y podáis expresar vuestra opinión con seguridad.</p>
+<p><strong>Esta será la diana de autoevaluación que utilizaremos:</strong></p>
+<p><img src="{{context_path}}/content/resources/Ficha de Ejercicio Diana de Autoevaluación Alumno Doodle Blanco y Negro.png" width="1440" height="1018" alt="Diana de autoevaluación" /><br /></p>
+<p> </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777216650135-uuuwsywa1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de este proyecto no será solo una nota final, sino un proceso que nos ayudará a ver cómo vais aprendiendo y mejorando poco a poco.</p>\n<p>Durante las actividades iremos observando vuestro trabajo, vuestro esfuerzo y cómo vais desarrollando vuestras habilidades. Para ello, utilizaremos diferentes formas de evaluación que nos permitirán conocer tanto cómo trabajáis durante el proyecto como el resultado final.</p>\n<p>En concreto, utilizaremos tres instrumentos de evaluación: una rúbrica, una diana de autoevaluación y una lista de cotejo. Cada uno nos ayudará a ver vuestro aprendizaje desde un punto de vista diferente: cómo os vemos como docentes, cómo os veis vosotros mismos y cómo vais trabajando día a día.</p>\n<p> <br /><strong>1. Rúbrica de evaluación</strong><br />La rúbrica se utilizará para evaluar el trabajo final del proyecto: el mural colaborativo sobre monumentos del centro de Málaga y la exposición oral que realizaréis.</p>\n<p>Con la rúbrica podremos valorar diferentes aspectos importantes de vuestro trabajo, como:</p>\n<ul>\n<li>Lo que habéis aprendido sobre mapas, planos y puntos cardinales</li>\n<li>Cómo utilizáis herramientas digitales</li>\n<li>Cómo os expresáis al explicar vuestro trabajo</li>\n<li>Cómo trabajáis en equipo</li>\n<li>Cómo presentáis el mural final</li>\n</ul>\n<p>Antes de empezar, conoceréis la rúbrica para que sepáis qué se espera de vosotros y podáis hacerlo lo mejor posible.</p>\n<p>Habrá diferentes niveles para valorar vuestro trabajo (por ejemplo: excelente, bien, en proceso o iniciado), lo que nos ayudará a ver vuestro progreso. Además, no solo servirá para poneros una nota, sino también para detectar en qué podéis mejorar y seguir aprendiendo.</p>\n<p>También tendremos en cuenta que cada uno aprende a su ritmo y que trabajar en grupo a veces puede ser diferente para cada persona. Por eso, no solo evaluaremos el resultado final, sino también todo el proceso, observando cómo participáis y trabajáis durante el proyecto.</p>\n<p><strong>Esta será la rúbrica del producto final:</strong></p>\n<p><img src=\"{{context_path}}/content/resources/Rúbrica mural colaborativo.png\" width=\"1440\" height=\"1018\" alt=\"Rúbrica\" /></p>\n<p> </p>\n<p> </p>\n<p><strong>2.     Lista de cotejo</strong></p>\n<p>La lista de cotejo nos servirá para observar cómo trabajáis durante el proyecto, no solo el resultado final.</p>\n<p>Con este instrumento iremos viendo aspectos importantes como:</p>\n<ul>\n<li>Si participáis en las actividades</li>\n<li>Cómo trabajáis en grupo</li>\n<li>Si respetáis las normas</li>\n<li>Cómo utilizáis los materiales y las herramientas digitales</li>\n<li>La actitud que mostráis en clase</li>\n</ul>\n<p>La utilizaremos a lo largo de todas las sesiones, para poder acompañaros mejor en vuestro aprendizaje y ayudaros cuando sea necesario.</p>\n<p>Para recoger la información, utilizaremos un registro sencillo (por ejemplo: “sí”, “en proceso” o “no”), lo que nos permitirá ver fácilmente cómo vais avanzando.</p>\n<p>Gracias a esto, podremos detectar si alguien necesita más ayuda, si hay dificultades al trabajar en equipo o si es necesario explicar algo de otra manera. Así podremos apoyaros mejor y hacer cambios cuando sea necesario para que todos podáis aprender.</p>\n<p><strong>Aquí podéis ver la lista de cotejo que emplearemos en esta unidad:</strong></p>\n<p><img src=\"{{context_path}}/content/resources/Lista de cotejo.png\" width=\"1440\" height=\"1018\" alt=\"Lista de cotejo\" /></p>\n<p> </p>\n<p><strong>3.     Diana de autoevaluación</strong></p>\n<p>También vais a utilizar una diana de evaluación para valorar vuestro propio trabajo.</p>\n<p>La diana es una herramienta visual con forma de círculos, donde podréis indicar cómo creéis que lo habéis hecho en diferentes aspectos del proyecto. Por ejemplo:</p>\n<ul>\n<li>Lo que habéis aprendido</li>\n<li>Cómo habéis trabajado en equipo</li>\n<li>Cómo habéis utilizado las herramientas digitales</li>\n<li>El esfuerzo que habéis puesto</li>\n</ul>\n<p><br />La utilizaremos al final del proyecto, aunque también podremos usarla en algún momento antes para ver cómo vais avanzando.</p>\n<p>Lo más importante de la diana no es la nota, sino que aprendáis a reflexionar sobre vuestro propio trabajo. Así podréis daros cuenta de qué hacéis bien y en qué podéis mejorar.</p>\n<p>Además, hablaremos juntos sobre vuestras respuestas para ayudaros a entender mejor vuestro aprendizaje. A veces puede pasar que penséis que lo habéis hecho mejor o peor de lo que realmente ha sido, y eso también nos ayudará a aprender a conocernos mejor y a seguir mejorando.</p>\n<p>Como todavía estáis aprendiendo a autoevaluaros, la haremos de forma guiada, para que todos entendáis bien cómo usarla y podáis expresar vuestra opinión con seguridad.</p>\n<p><strong>Esta será la diana de autoevaluación que utilizaremos:</strong></p>\n<p><img src=\"{{context_path}}/content/resources/Ficha de Ejercicio Diana de Autoevaluación Alumno Doodle Blanco y Negro.png\" width=\"1440\" height=\"1018\" alt=\"Diana de autoevaluación\" /><br /></p>\n<p> </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777208798060-e6r678l5d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Guía didáctica</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777208798060-e6r678l5d</odePageId>
+      <odeBlockId>block-1777217105314-92a7wauwd</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777208798060-e6r678l5d</odePageId>
+          <odeBlockId>block-1777217105314-92a7wauwd</odeBlockId>
+          <odeIdeviceId>idevice-1777217105309-oxeebfwy9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Descripción general</strong><br />La presente Situación de Aprendizaje, titulada “¿Dónde estamos? Aprendemos a orientarnos en nuestro entorno”, está dirigida al alumnado de <strong>2º de Educación Primaria</strong> y se desarrolla a lo largo de 10-12 sesiones dentro del área de Conocimiento del Medio Natural, Social y Cultural.</p>
+<p>El <strong>objetivo principal </strong>es que el alumnado comprenda cómo orientarse en su entorno cercano mediante el uso de herramientas como mapas, planos, puntos cardinales y recursos digitales, fomentando al mismo tiempo el desarrollo de la competencia digital y el trabajo cooperativo.</p>
+<p> <br /><strong>2. Metodología</strong><br />La propuesta se basa en una metodología activa, participativa y centrada en el alumnado, donde este se convierte en protagonista de su propio aprendizaje.</p>
+<p>Se emplean estrategias como:</p>
+<ul>
+<li>Aprendizaje basado en proyectos (ABP)</li>
+<li>Trabajo cooperativo</li>
+<li>Uso de herramientas digitales</li>
+<li>Actividades prácticas y contextualizadas</li>
+</ul>
+<p>El alumnado aprende a través de la exploración, la investigación y la creación de un producto final significativo.</p>
+<p> <br /><strong>3. Relación entre tareas y criterios de evaluación</strong><br />A continuación, se muestra la relación entre las principales tareas del proyecto y los criterios de evaluación:</p>
+<ul>
+<li>Lluvia de ideas sobre orientación → Criterio 2.1.b</li>
+<li>Observación de mapas y planos → Criterio 5.1.b</li>
+<li>Aprendizaje de puntos cardinales → Criterio 5.1.b</li>
+<li>Localización en Google Maps → Criterios 2.2.b y 1.1.b</li>
+<li>Actividad práctica de orientación → Criterio 2.3.b</li>
+<li>Elaboración de un plano → Criterio 2.4.b<br /></li>
+<li>Exploración de monumentos → Criterio 2.2.b</li>
+<li>Búsqueda de información → Criterios 2.2.b y 8.1.b</li>
+<li>Organización de la información → Criterio 2.3.b</li>
+<li>Creación del mural → Criterio 3.1.b</li>
+<li>Exposición final → Criterio 3.2.b</li>
+</ul>
+<p>Esta relación permite garantizar la coherencia entre las actividades propuestas y la evaluación del aprendizaje.</p>
+<p> <br /><strong>4. Atención a la diversidad</strong><br />La propuesta tiene en cuenta la diversidad del alumnado mediante:</p>
+<ul>
+<li>Actividades adaptadas a distintos ritmos de aprendizaje</li>
+<li>Uso de recursos visuales y manipulativos</li>
+<li>Trabajo en grupo que favorece la ayuda entre iguales</li>
+<li>Instrucciones claras y guiadas</li>
+<li>Se busca que todo el alumnado pueda participar activamente y alcanzar los objetivos propuestos.</li>
+</ul>
+<p> <br /><strong>5. Competencia digital</strong><br />Durante el desarrollo del proyecto, el alumnado utiliza diferentes herramientas digitales como <em><strong>Google Maps</strong></em>, <strong><em>Google Earth</em></strong>, <strong><em>Padlet</em></strong> o <strong><em>Genially</em></strong>, lo que favorece el desarrollo de su competencia digital.</p>
+<p>Además, se promueve un <strong>uso seguro y responsable de la tecnología</strong>, trabajando aspectos relacionados con la <strong>protección de datos</strong> y el respeto en entornos digitales.</p>
+<p> <br /><strong>6. Evaluación</strong><br />La evaluación se plantea como un <strong>proceso continuo, formativo y global.</strong></p>
+<p>Se emplean diferentes <strong>instrumentos</strong>:</p>
+<ul>
+<li>Rúbrica (evaluación del producto final)</li>
+<li>Lista de cotejo (seguimiento del proceso)</li>
+<li>Diana de autoevaluación (reflexión del alumnado)</li>
+</ul>
+<p>Estos instrumentos permiten valorar tanto el proceso como el resultado del aprendizaje.</p>
+<p> <br /><strong>7. Organización y recursos</strong><br />El proyecto se desarrolla en diferentes agrupamientos:</p>
+<ul>
+<li>Gran grupo</li>
+<li>Parejas</li>
+<li>Pequeños grupos</li>
+<li>Trabajo individual</li>
+</ul>
+<p>Se utilizan recursos como:</p>
+<ul>
+<li>Dispositivos digitales (tablets, PDI)</li>
+<li>Aplicaciones digitales</li>
+<li>Materiales impresos y manipulativos</li>
+</ul>
+<p><strong></strong></p>
+<p><strong>8. Recomendaciones para el profesorado</strong><br />Para una correcta implementación del proyecto se recomienda:</p>
+<ul>
+<li>Revisar previamente los recursos tecnológicos</li>
+<li>Tener alternativas analógicas en caso de fallos técnicos</li>
+<li>Fomentar la participación activa del alumnado</li>
+<li>Guiar el uso de herramientas digitales</li>
+<li>Favorecer un clima de trabajo cooperativo</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777217105309-oxeebfwy9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Descripción general</strong><br />La presente Situación de Aprendizaje, titulada “¿Dónde estamos? Aprendemos a orientarnos en nuestro entorno”, está dirigida al alumnado de <strong>2º de Educación Primaria</strong> y se desarrolla a lo largo de 10-12 sesiones dentro del área de Conocimiento del Medio Natural, Social y Cultural.</p>\n<p>El <strong>objetivo principal </strong>es que el alumnado comprenda cómo orientarse en su entorno cercano mediante el uso de herramientas como mapas, planos, puntos cardinales y recursos digitales, fomentando al mismo tiempo el desarrollo de la competencia digital y el trabajo cooperativo.</p>\n<p> <br /><strong>2. Metodología</strong><br />La propuesta se basa en una metodología activa, participativa y centrada en el alumnado, donde este se convierte en protagonista de su propio aprendizaje.</p>\n<p>Se emplean estrategias como:</p>\n<ul>\n<li>Aprendizaje basado en proyectos (ABP)</li>\n<li>Trabajo cooperativo</li>\n<li>Uso de herramientas digitales</li>\n<li>Actividades prácticas y contextualizadas</li>\n</ul>\n<p>El alumnado aprende a través de la exploración, la investigación y la creación de un producto final significativo.</p>\n<p> <br /><strong>3. Relación entre tareas y criterios de evaluación</strong><br />A continuación, se muestra la relación entre las principales tareas del proyecto y los criterios de evaluación:</p>\n<ul>\n<li>Lluvia de ideas sobre orientación → Criterio 2.1.b</li>\n<li>Observación de mapas y planos → Criterio 5.1.b</li>\n<li>Aprendizaje de puntos cardinales → Criterio 5.1.b</li>\n<li>Localización en Google Maps → Criterios 2.2.b y 1.1.b</li>\n<li>Actividad práctica de orientación → Criterio 2.3.b</li>\n<li>Elaboración de un plano → Criterio 2.4.b<br /></li>\n<li>Exploración de monumentos → Criterio 2.2.b</li>\n<li>Búsqueda de información → Criterios 2.2.b y 8.1.b</li>\n<li>Organización de la información → Criterio 2.3.b</li>\n<li>Creación del mural → Criterio 3.1.b</li>\n<li>Exposición final → Criterio 3.2.b</li>\n</ul>\n<p>Esta relación permite garantizar la coherencia entre las actividades propuestas y la evaluación del aprendizaje.</p>\n<p> <br /><strong>4. Atención a la diversidad</strong><br />La propuesta tiene en cuenta la diversidad del alumnado mediante:</p>\n<ul>\n<li>Actividades adaptadas a distintos ritmos de aprendizaje</li>\n<li>Uso de recursos visuales y manipulativos</li>\n<li>Trabajo en grupo que favorece la ayuda entre iguales</li>\n<li>Instrucciones claras y guiadas</li>\n<li>Se busca que todo el alumnado pueda participar activamente y alcanzar los objetivos propuestos.</li>\n</ul>\n<p> <br /><strong>5. Competencia digital</strong><br />Durante el desarrollo del proyecto, el alumnado utiliza diferentes herramientas digitales como <em><strong>Google Maps</strong></em>, <strong><em>Google Earth</em></strong>, <strong><em>Padlet</em></strong> o <strong><em>Genially</em></strong>, lo que favorece el desarrollo de su competencia digital.</p>\n<p>Además, se promueve un <strong>uso seguro y responsable de la tecnología</strong>, trabajando aspectos relacionados con la <strong>protección de datos</strong> y el respeto en entornos digitales.</p>\n<p> <br /><strong>6. Evaluación</strong><br />La evaluación se plantea como un <strong>proceso continuo, formativo y global.</strong></p>\n<p>Se emplean diferentes <strong>instrumentos</strong>:</p>\n<ul>\n<li>Rúbrica (evaluación del producto final)</li>\n<li>Lista de cotejo (seguimiento del proceso)</li>\n<li>Diana de autoevaluación (reflexión del alumnado)</li>\n</ul>\n<p>Estos instrumentos permiten valorar tanto el proceso como el resultado del aprendizaje.</p>\n<p> <br /><strong>7. Organización y recursos</strong><br />El proyecto se desarrolla en diferentes agrupamientos:</p>\n<ul>\n<li>Gran grupo</li>\n<li>Parejas</li>\n<li>Pequeños grupos</li>\n<li>Trabajo individual</li>\n</ul>\n<p>Se utilizan recursos como:</p>\n<ul>\n<li>Dispositivos digitales (tablets, PDI)</li>\n<li>Aplicaciones digitales</li>\n<li>Materiales impresos y manipulativos</li>\n</ul>\n<p><strong></strong></p>\n<p><strong>8. Recomendaciones para el profesorado</strong><br />Para una correcta implementación del proyecto se recomienda:</p>\n<ul>\n<li>Revisar previamente los recursos tecnológicos</li>\n<li>Tener alternativas analógicas en caso de fallos técnicos</li>\n<li>Fomentar la participación activa del alumnado</li>\n<li>Guiar el uso de herramientas digitales</li>\n<li>Favorecer un clima de trabajo cooperativo</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777208802896-gjico2lnb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777208802896-gjico2lnb</odePageId>
+      <odeBlockId>block-1777217494135-b7x33p75z</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777208802896-gjico2lnb</odePageId>
+          <odeBlockId>block-1777217494135-b7x33p75z</odeBlockId>
+          <odeIdeviceId>idevice-1777217494130-nz6b1h2pd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong><br />Este recurso educativo ha sido elaborado por:<br />Belén Martín Adell</p>
+<p> <br /><strong>Descripción</strong><br />Este eXeLearning presenta una Situación de Aprendizaje titulada “¿Dónde estamos? Aprendemos a orientarnos en nuestro entorno”, dirigida al alumnado de 2º de Educación Primaria.</p>
+<p>El proyecto tiene como finalidad desarrollar la orientación espacial del alumnado mediante el uso de mapas, planos y herramientas digitales, así como fomentar el trabajo cooperativo y la competencia digital a través de la elaboración de un mural colaborativo sobre monumentos del centro de Málaga.</p>
+<p> <br /><strong>Licencia de uso</strong><br />Este recurso se comparte bajo licencia:<br />Creative Commons CC BY-NC-SA</p>
+<p>Esto permite su uso, adaptación y difusión siempre que se reconozca la autoría, no se utilice con fines comerciales y se comparta bajo la misma licencia.</p>
+<p> <br /><strong>Recursos utilizados</strong><br />Los contenidos, imágenes y recursos utilizados en este proyecto han sido seleccionados respetando los derechos de autor.<br />En todos los casos se ha indicado la procedencia y/o licencia correspondiente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777217494130-nz6b1h2pd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong><br />Este recurso educativo ha sido elaborado por:<br />Belén Martín Adell</p>\n<p> <br /><strong>Descripción</strong><br />Este eXeLearning presenta una Situación de Aprendizaje titulada “¿Dónde estamos? Aprendemos a orientarnos en nuestro entorno”, dirigida al alumnado de 2º de Educación Primaria.</p>\n<p>El proyecto tiene como finalidad desarrollar la orientación espacial del alumnado mediante el uso de mapas, planos y herramientas digitales, así como fomentar el trabajo cooperativo y la competencia digital a través de la elaboración de un mural colaborativo sobre monumentos del centro de Málaga.</p>\n<p> <br /><strong>Licencia de uso</strong><br />Este recurso se comparte bajo licencia:<br />Creative Commons CC BY-NC-SA</p>\n<p>Esto permite su uso, adaptación y difusión siempre que se reconozca la autoría, no se utilice con fines comerciales y se comparta bajo la misma licencia.</p>\n<p> <br /><strong>Recursos utilizados</strong><br />Los contenidos, imágenes y recursos utilizados en este proyecto han sido seleccionados respetando los derechos de autor.<br />En todos los casos se ha indicado la procedencia y/o licencia correspondiente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
